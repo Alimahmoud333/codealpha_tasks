@@ -1,4 +1,4 @@
-# Backend — CodeAlpha Tasks 1 & 2 (E-commerce + Social media API)
+# Backend — CodeAlpha Tasks 1 
 
 Node.js + Express + MySQL (`mysql2`). Full API reference: [API.md](./API.md).
 
