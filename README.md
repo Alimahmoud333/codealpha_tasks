@@ -4,7 +4,7 @@ The Project built with **React, Node.js, Express.js and MySQL** for the CodeAlph
 
 | Task   | Project                                        | Folder                                 |
 | ------ | ---------------------------------------------- | -------------------------------------- |
-| Task 1 | Simple E-commerce Store                        | [`CodeAlpha-Task1`](./CodeAlpha-Task1) |
+| Task 1 | E-commerce Store                               | [`CodeAlpha-Task1`](./CodeAlpha-Task1) |
 | Task 2 | Social Media Platform (built on top of Task 1) | [`CodeAlpha-Task2`](./CodeAlpha-Task2) |
 
 Each task folder contains its own `backend/` and `frontend/` folders, and each of those has its own README with detailed instructions.
@@ -16,7 +16,7 @@ Each task folder contains its own `backend/` and `frontend/` folders, and each o
 ## Repository structure
 
 ```
-CodeAlpha/
+codealpha_tasks/
 ├── README.md
 ├── CodeAlpha-Task1/
 │   ├── backend/               Express + MySQL API for the store
